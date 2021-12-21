@@ -1,0 +1,31 @@
+---
+layout: default
+title: Whoops!
+description: Sorry – Think You Broke Something....
+featured_image: /images/demo/about.jpg
+---
+<div class="page-post">
+
+	<header class="post__header header--single">
+		
+		<div class="wrap">
+			<h1 class="post__title">Page Not Found</h1>
+		</div>
+
+	</header>
+
+	<section class="post-full">
+
+		<div class="wrap">
+
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<p class="hero__text">Sorry – this doesnt quite look right... Either you broke something or we did, how about we restart and try that again!</p>
+				<img src="{{ '/images/404.gif' | relative_url }}" alt="Whoops">
+				<p><a href="/" class="button--fill">Restart</a></p>
+			</article>
+
+		</div>
+
+	</section>
+
+</div>
