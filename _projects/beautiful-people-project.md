@@ -68,8 +68,6 @@ Beautiful People is a limited collection of 101 generative portraits
   <img src="/images/projects/people/23.jpg" alt="Beautiful People #23" title="Lashawn - BP23"></a>
   <a class="gallery__item" href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54029486072759247851061701126040923071116362448884145295668805304814760099841">
   <img src="/images/projects/people/24.jpg" alt="Beautiful People #24" title="Berhane - BP24"></a>
-  <a class="gallery__item" href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54029486072759247851061701126040923071116362448884145295668805305914271727617">
-  <img src="/images/projects/people/25.jpg" alt="Beautiful People #25" title="Nana - BP25"></a>
 </div>
 <br>
 <br>
