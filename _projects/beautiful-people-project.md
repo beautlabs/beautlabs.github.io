@@ -72,4 +72,5 @@ Beautiful People is a limited collection of 101 generative portraits
   <img src="/images/projects/people/25.jpg" alt="Beautiful People #25" title="Nana - BP25"></a>
 </div>
 <br>
+<br>
 <a href="https://opensea.io/collection/beautiful-people-labs" class="button--fill">OpenSea Collection</a>
